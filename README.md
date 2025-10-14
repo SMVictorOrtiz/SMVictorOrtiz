@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- TODO: Cambia "VictorUsername" por tu usuario real -->
+
 <a href="https://github.com/SMVictorOrtiz">
   <img src="https://github-readme-stats.vercel.app/api?username=SMVictorOrtiz&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SMVictorOrtiz&show_icons=true&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" />
@@ -96,14 +96,13 @@ Here are some ideas to get you started:
 ## <b>Contacto</b> <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="60">
 
 <ul>
-  <!-- TODO: Actualiza tus enlaces -->
   <li>
-    <a href="www.linkedin.com/in/victorortizsr" target="_blank">
+    <a href="https://www.linkedin.com/in/victorortizsr" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-victorortizsr-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </li>
   <li>
-    <a href="mailto:victor.orsz26@gmail.com" target="_blank">
+    <a href="mailto:victor.orsz26@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-victor.orsz26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </li>
